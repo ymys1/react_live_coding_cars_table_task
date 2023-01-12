@@ -5,7 +5,6 @@ import React from 'react';
 // 1. Render car with color
 // 2. Add ability to filter car by brand name
 // 3. Add ability to filter car by color
-// 4. Commit & deploy changes. Create pull request and add demo link to pr description
 
 export const App: React.FC = () => {
   return (

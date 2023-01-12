@@ -2,10 +2,10 @@
 
 ## Instructions
 
-
-1. Fork Repo
-1. Implement a cars table
-1. Add ability to filter car by brand name
-1. Add ability to filter car by color
+1. Fork Repository
+1. Clone Repository
+1. Replace name in demi link
+1. Switch to develop branch
+1. Implement task
 1. Commit & deploy changes. Create pull request and add demo link to pr description
 
