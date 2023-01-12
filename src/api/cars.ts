@@ -3,7 +3,7 @@ export default [
     id: 1, brand: 'Audi', rentPrice: 100, colorId: 1,
   },
   {
-    id: 2, brand: 'Audi', rentPrice: 100, colorIdId: 2,
+    id: 2, brand: 'Audi', rentPrice: 100, colorId: 2,
   },
   {
     id: 3, brand: 'Ferarri', rentPrice: 500, colorId: 3,
