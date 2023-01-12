@@ -5,3 +5,42 @@ iframe {
 html {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+thead {
+  color: white;
+}
+
+thead tr{
+  background-color: #0e3a80;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr {
+  background-color: #bbd3fa;
+}
+
+tr:nth-child(even) {
+  background-color: #7ea6e6;
+}
+
+input {
+  margin: 16px 16px 16px 0;
+  width: 300px;
+  padding: 8px;
+}
+
+select {
+  width: 150px;
+  padding: 8px;
+}
